@@ -1,9 +1,22 @@
-# Welcome to my projects!
+# Welcome to My GitHub Page
 
+👋 Hello, and thank you for visiting my GitHub page! I'm excited to have you here. This is where I showcase my projects and contributions in various programming languages and domains.
+
+## About Me
+I am almost finishing my Data Science Degree and PhD on image segmentation on MRI images from multiple sclerosis patients using deel learnning. I'm a passionate developer and open-source enthusiast with a love for coding in Python and R but also C, SQL, and Bash scripting. I enjoy working on a wide range of projects, from web applications to data analysis and automation scripts.
+
+## Projects
+
+Feel free to explore these projects, and if you find something interesting or have suggestions, don't hesitate to reach out or contribute. I'm always open to collaboration and new ideas!
+
+## Contributions
+
+I actively contribute to various open-source projects and communities. You can check out my contributions on my GitHub profile and connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/marcos-diaz-hurtado-0689a4182/)) if you'd like to collaborate or discuss anything related to programming and technology.
+
+Thanks again for stopping by, and I hope you find something inspiring or useful here. Happy coding!
 
 
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![R](https://img.shields.io/badge/R-4.0%2B-green)
-![C](https://img.shields.io/badge/C-99%2B-orange)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%2C%20PostgreSQL-blueviolet)

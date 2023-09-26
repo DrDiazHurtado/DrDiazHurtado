@@ -1,4 +1,4 @@
-# Welcome to My GitHub Page
+# Welcome to My GitHub Page :blush:
 
 👋 Hello, and thank you for visiting my GitHub page! I'm excited to have you here. This is where I showcase my projects and contributions in various programming languages and domains.
 

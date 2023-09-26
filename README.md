@@ -4,3 +4,15 @@
 
 
 
+
+<!-- 
+## My Skills 💻
+
+
+
+
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
+</a>
+</p>
+-->

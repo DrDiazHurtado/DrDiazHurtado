@@ -1,4 +1,6 @@
-### Hi there 👋
+### Internal Medicine Consultant. Data Scientist*. Image segmentation Multiple Sclerosis**. 
+* Nearing complete degree.
+* ** Nearing complete PhD. Both UOC University 👋
 
 <!--
 **DrDiazHurtado/DrDiazHurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

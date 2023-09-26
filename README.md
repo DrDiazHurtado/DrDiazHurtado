@@ -15,7 +15,10 @@ I actively contribute to various open-source projects and communities. You can c
 
 Thanks again for stopping by, and I hope you find something inspiring or useful here. Happy coding!
 
-
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:doctordiaz.se@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![R](https://img.shields.io/badge/R-4.0%2B-green)

@@ -24,11 +24,37 @@ Thanks again for stopping by, and I hope you find something inspiring or useful 
 ![R](https://img.shields.io/badge/R-4.0%2B-green)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%2C%20PostgreSQL-blueviolet)
 
-<canvas id="myCanvas" width="800" height="400"></canvas>
-<script>
-const canvas = document.getElementById('myCanvas');
-const ctx = canvas.getContext('2d');
-// Implementa tu código de animación aquí
-</script>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Canvas Animation</title>
+</head>
+<body>
+    <canvas id="myCanvas" width="800" height="400"></canvas>
+    <script>
+    const canvas = document.getElementById('myCanvas');
+    const ctx = canvas.getContext('2d');
+    
+    // Aquí deberías implementar tu código de animación
+
+    // Por ejemplo, dibujar un rectángulo animado
+    let posX = 0;
+
+    function draw() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        ctx.fillStyle = 'blue';
+        ctx.fillRect(posX, 50, 50, 50);
+        posX++;
+        if (posX > canvas.width) {
+            posX = 0;
+        }
+        requestAnimationFrame(draw);
+    }
+
+    draw();
+    </script>
+</body>
+</html>
+
 
 

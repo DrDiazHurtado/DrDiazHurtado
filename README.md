@@ -24,37 +24,3 @@ Thanks again for stopping by, and I hope you find something inspiring or useful 
 ![R](https://img.shields.io/badge/R-4.0%2B-green)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%2C%20PostgreSQL-blueviolet)
 
-<head>
-    <title>Avión en el cielo</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background-color: #87CEEB; /* Color de fondo: cielo */
-        }
-        
-        /* Estilo del avión */
-        .airplane {
-            width: 100px;
-            height: 30px;
-            background-color: #fff; /* Color del avión */
-            position: absolute;
-            top: 50%;
-            left: -100px;
-            transform: translateY(-50%);
-            animation: fly 8s linear infinite;
-        }
-
-        /* Animación del avión */
-        @keyframes fly {
-            to {
-                transform: translateX(110vw); /* Mueve el avión fuera del área visible */
-            }
-        }
-    </style>
-<body>
-    <!-- Avión -->
-    <div class="airplane"></div>
-</body>
-</html>

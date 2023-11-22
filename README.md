@@ -23,3 +23,6 @@ Thanks again for stopping by, and I hope you find something inspiring or useful 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![R](https://img.shields.io/badge/R-4.0%2B-green)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%2C%20PostgreSQL-blueviolet)
+
+![image](https://github.com/DrDiazHurtado/DrDiazHurtado/assets/100340828/31264cbc-6307-4dfb-bec7-13883681d776)
+

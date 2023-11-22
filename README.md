@@ -24,3 +24,5 @@ Thanks again for stopping by, and I hope you find something inspiring or useful 
 ![R](https://img.shields.io/badge/R-4.0%2B-green)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%2C%20PostgreSQL-blueviolet)
 
+![conway_game_of_life](https://github.com/DrDiazHurtado/DrDiazHurtado/assets/100340828/a76cd09c-7e6c-4861-b4fa-2b9c9cb9a16c)
+

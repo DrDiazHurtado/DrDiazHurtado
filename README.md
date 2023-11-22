@@ -24,7 +24,6 @@ Thanks again for stopping by, and I hope you find something inspiring or useful 
 ![R](https://img.shields.io/badge/R-4.0%2B-green)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%2C%20PostgreSQL-blueviolet)
 
-<html>
 <head>
     <title>Avión en el cielo</title>
     <style>
@@ -54,7 +53,6 @@ Thanks again for stopping by, and I hope you find something inspiring or useful 
             }
         }
     </style>
-</head>
 <body>
     <!-- Avión -->
     <div class="airplane"></div>

@@ -25,11 +25,3 @@ Thanks again for stopping by, and I hope you find something inspiring or useful 
 ![SQL](https://img.shields.io/badge/SQL-MySQL%2C%20PostgreSQL-blueviolet)
 
 ![conway_game_of_life](https://github.com/DrDiazHurtado/DrDiazHurtado/assets/100340828/a7c322c4-d403-44d9-bbe3-af1d79dc4511)
-<video
-  style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);"
-  src="https://content.typeframes.com/renders/W0y1Vh9urBKvUs92KxaH/typeframes-W0y1Vh9urBKvUs92KxaH-1705185787094.mp4"
-  controls
-  autoPlay
-  loop
-  playsInline
->Video not supported</video>

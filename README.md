@@ -3,7 +3,7 @@
 Hello, and thank you for visiting my GitHub page! I'm excited to have you here. This is where I showcase my projects and contributions in various programming languages and domains.
 
 ## About Me
-I am almost finishing my Data Science Degree and PhD on image segmentation on MRI images from multiple sclerosis patients using deep learnning. I'm a passionate developer and open-source enthusiast with a love for coding in Python and R. I enjoy working on a wide range of projects, from web applications to data analysis and automation scripts. I also love participating in Kaggle competitions. 
+Bachelor Degree in Data Science. Physician. Ongoing PhD on image segmentation on MRI images from multiple sclerosis patients using deep learnning. I'm a passionate developer and open-source enthusiast with a love for coding in Python and R. I enjoy working on a wide range of projects, from web applications to data analysis and automation scripts. I also love participating in Kaggle competitions. 
 
 ## Projects
 
